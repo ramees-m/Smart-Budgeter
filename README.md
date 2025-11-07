@@ -23,25 +23,6 @@ Technology	Purpose
 Python	Core programming language
 Streamlit	Web app framework
 OOP	Code structure and modularity
-⚙️ How to Run
-
-Clone the repository
-
-git clone https://github.com/your-username/SmartBudgeter.git
-cd SmartBudgeter
-
-
-Install dependencies
-
-pip install streamlit
-
-
-Run the app
-
-streamlit run budget_tracker.py
-
-
-Open the displayed local URL (usually http://localhost:8501) in your browser.
 
 🧾 Example Input
 Salary: 50000

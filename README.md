@@ -4,7 +4,10 @@
 SmartBudgeter is a simple yet powerful personal budget and expense tracking app built with Python, Streamlit, and Object-Oriented Programming (OOP) concepts.
 It helps users easily analyze income, expenses, savings, and spending distribution — all through an interactive and visually clean web interface.
 
+
+
 🎯 Features
+
 
 💰 Input your salary and set a monthly budget.
 
@@ -18,19 +21,25 @@ It helps users easily analyze income, expenses, savings, and spending distributi
 
 🚀 Simple Streamlit UI that runs directly in your browser.
 
+
 🧠 Tech Stack
+
 Technology	Purpose
 Python	Core programming language
 Streamlit	Web app framework
 OOP	Code structure and modularity
 
+
 🧾 Example Input
+
 Salary: 50000
 Set Budget: 40000
 Expenses: {'Food': 5000, 'Rent': 15000, 'Travel': 3000, 'Shopping': 2000}
 
 
+
 ✅ Output:
+
 
 Total Expense
 
@@ -41,7 +50,9 @@ Surplus Budget
 Category-wise spending percentages
 
 
+
 🚀 Future Enhancements
+
 
 Add user login and multiple profiles
 
@@ -51,7 +62,10 @@ Visual charts (Pie/Bar) for expense distribution
 
 Export reports as PDF/Excel
 
+
+
 👨‍💻 Author
+
 
 Ramees
 💼 Data Science | Python Developer | Streamlit Enthusiast
